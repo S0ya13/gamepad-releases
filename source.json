@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.12",
+          "buildVersion": "12",
+          "date": "2026-11-23T14:17:40Z",
+          "localizedDescription": "Game profiles: editable layouts, LB/RB/Start/Back, analog LT/RT, tilt steering, per-game keys",
+          "downloadURL": "https://github.com/S0ya13/gamepad-releases/releases/download/build-12/GamepadClient.ipa",
+          "size": 272651,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.4",
           "buildVersion": "4",
           "date": "2026-11-23T12:31:45Z",
@@ -24,10 +33,10 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.1.4",
-      "versionDate": "2026-11-23T12:31:45Z",
-      "downloadURL": "https://github.com/S0ya13/gamepad-releases/releases/download/build-4/GamepadClient.ipa",
-      "size": 96166
+      "version": "0.1.12",
+      "versionDate": "2026-11-23T14:17:40Z",
+      "downloadURL": "https://github.com/S0ya13/gamepad-releases/releases/download/build-12/GamepadClient.ipa",
+      "size": 272651
     }
   ],
   "news": []
