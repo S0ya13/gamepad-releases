@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.22",
+          "buildVersion": "22",
+          "date": "2026-11-23T18:19:09Z",
+          "localizedDescription": "Динамические стики, свайп-камера, турбо, размер каждого стика, темы, профиль Controller, L3 от стика — переключатель (по умолчанию выкл)",
+          "downloadURL": "https://github.com/S0ya13/gamepad-releases/releases/download/build-22/GamepadClient.ipa",
+          "size": 354834,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.16",
           "buildVersion": "16",
           "date": "2026-11-23T14:50:25Z",
@@ -51,10 +60,10 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.1.16",
-      "versionDate": "2026-11-23T14:50:25Z",
-      "downloadURL": "https://github.com/S0ya13/gamepad-releases/releases/download/build-16/GamepadClient.ipa",
-      "size": 278963
+      "version": "0.1.22",
+      "versionDate": "2026-11-23T18:19:09Z",
+      "downloadURL": "https://github.com/S0ya13/gamepad-releases/releases/download/build-22/GamepadClient.ipa",
+      "size": 354834
     }
   ],
   "news": []
