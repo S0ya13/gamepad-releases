@@ -3,6 +3,32 @@
   "identifier": "io.github.s0ya13.gamepad",
   "subtitle": "Геймпад для Mac",
   "iconURL": "https://raw.githubusercontent.com/S0ya13/gamepad-releases/main/icon.png",
-  "apps": [],
+  "apps": [
+    {
+      "name": "Gamepad",
+      "bundleIdentifier": "com.gamepad.client",
+      "developerName": "S0ya13",
+      "subtitle": "Геймпад для Mac по Wi-Fi",
+      "localizedDescription": "Два плавающих стика и восемь кнопок. Управляет играми на Mac по UDP в локальной сети; на Mac нужен MacServer.",
+      "iconURL": "https://raw.githubusercontent.com/S0ya13/gamepad-releases/main/icon.png",
+      "tintColor": "#FF9500",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "0.1.4",
+          "buildVersion": "4",
+          "date": "2026-11-23T12:31:45Z",
+          "localizedDescription": "Первая сборка: 2 стика, D-pad, ABXY, L3 при сильном отклонении левого стика",
+          "downloadURL": "https://github.com/S0ya13/gamepad-releases/releases/download/build-4/GamepadClient.ipa",
+          "size": 96166,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "version": "0.1.4",
+      "versionDate": "2026-11-23T12:31:45Z",
+      "downloadURL": "https://github.com/S0ya13/gamepad-releases/releases/download/build-4/GamepadClient.ipa",
+      "size": 96166
+    }
+  ],
   "news": []
 }
