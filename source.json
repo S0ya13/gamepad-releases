@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.26",
+          "buildVersion": "26",
+          "date": "2026-11-27T18:47:23Z",
+          "localizedDescription": "Приложение без изменений. Проект открыт: github.com/S0ya13/gamepad",
+          "downloadURL": "https://github.com/S0ya13/gamepad-releases/releases/download/build-26/GamepadClient.ipa",
+          "size": 354834,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.22",
           "buildVersion": "22",
           "date": "2026-11-23T18:19:09Z",
@@ -60,9 +69,9 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.1.22",
-      "versionDate": "2026-11-23T18:19:09Z",
-      "downloadURL": "https://github.com/S0ya13/gamepad-releases/releases/download/build-22/GamepadClient.ipa",
+      "version": "0.1.26",
+      "versionDate": "2026-11-27T18:47:23Z",
+      "downloadURL": "https://github.com/S0ya13/gamepad-releases/releases/download/build-26/GamepadClient.ipa",
       "size": 354834
     }
   ],
